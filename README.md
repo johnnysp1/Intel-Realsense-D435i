@@ -40,5 +40,4 @@ $ python savevideo.py
 ```
  and you can press ```q``` to quit 
 * You can choose save the video into .mp4 or .avi format
-## Demo
-### Reference
+
